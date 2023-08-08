@@ -1,6 +1,10 @@
  this is new branch
+<<<<<<< HEAD
  this work done
  conflict is resolved
 new line
+
+=======
 this work done
 new line add
+>>>>>>> new
